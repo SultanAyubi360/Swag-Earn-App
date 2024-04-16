@@ -1,15 +1,15 @@
 <div align="center">
 
-![images](https://user-images.githubusercontent.com/112378013/192100609-b5d62578-3cf5-4bfe-8730-6297e339fdb0.jpg)
-
-</div>
-
+![icon](https://github.com/SultanAyubi360/Swag-Earn-App/assets/112378013/570e2a20-a359-48e1-8231-ead15dfc7c01)
 
 # Swag-Earn-App
 
 Android Earn Money Rewards App With Admin App , firebase and google ads Are you looking for the make money app that pays . Here is SwagEarn With Admin App all the feature implemented here. Simple And Profitable App.
 
 This application is build with Android Studio and we used clean and quality code for best performance with beautiful UI Design and already integrated with Admob.
+
+</div>
+
 
 ## :tada: APP FEATURES:
 
