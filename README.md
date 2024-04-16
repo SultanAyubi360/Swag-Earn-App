@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="![icon](https://github.com/SultanAyubi360/Swag-Earn-App/assets/112378013/81771730-aa07-4e2c-a0bc-1429c4f0822a)" height="140"/>
+![images](https://user-images.githubusercontent.com/112378013/192100609-b5d62578-3cf5-4bfe-8730-6297e339fdb0.jpg)
 
 </div>
 
