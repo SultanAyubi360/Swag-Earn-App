@@ -31,6 +31,8 @@ This application is build with Android Studio and we used clean and quality code
 
 ★ Lucky Win
 
+★ Jackpot Slot
+
 ★ Daily Bonus, Watch Ads, Website Visit Added
 
 ★ Rate us, share this app, privacy policy ,about us, how to use , added in drawer
