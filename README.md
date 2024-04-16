@@ -1,6 +1,6 @@
 <div align="center">
 
-![icon](https://github.com/SultanAyubi360/Swag-Earn-App/assets/112378013/570e2a20-a359-48e1-8231-ead15dfc7c01)
+<img src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Symbol.png" width="170" height="150" />
 
 # Swag-Earn-App
 
