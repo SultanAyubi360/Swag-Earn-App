@@ -1,6 +1,6 @@
 # Swag-Earn-App
 
-Android Earn Money Rewards App With Admin App , firebase and google ads Are you looking for the make money app that pays . Here is KingEarn With Admin App all the feature implemented here. Simple And Profitable App.
+Android Earn Money Rewards App With Admin App , firebase and google ads Are you looking for the make money app that pays . Here is SwagEarn With Admin App all the feature implemented here. Simple And Profitable App.
 
 This application is build with Android Studio and we used clean and quality code for best performance with beautiful UI Design and already integrated with Admob.
 
