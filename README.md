@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="![icon](https://github.com/SultanAyubi360/Swag-Earn-App/assets/112378013/ec3b3a11-1732-4986-97a1-c1d6a8987e73)
-" height="150" />
+<img src="https://i.ibb.co/KL4ytGm/icon.png" height="150" />
 
 # Swag Earn App
 
