@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Symbol.png" height="150" />
+<img src="![icon](https://github.com/SultanAyubi360/Swag-Earn-App/assets/112378013/ec3b3a11-1732-4986-97a1-c1d6a8987e73)
+" height="150" />
 
-# Swag-Earn-App
+# Swag Earn App
 
 Android Earn Money Rewards App With Admin App , firebase and google ads Are you looking for the make money app that pays . Here is SwagEarn With Admin App all the feature implemented here. Simple And Profitable App.
 
