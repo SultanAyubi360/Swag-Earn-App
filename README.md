@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Symbol.png" width="170" height="150" />
+<img src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Symbol.png" width="150" height="150" />
 
 # Swag-Earn-App
 
