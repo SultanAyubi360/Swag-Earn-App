@@ -61,10 +61,16 @@ This application is build with Android Studio and we used clean and quality code
 
 Lucky Spin,Tic Tac Toe,Big Surve,Lucky Win,Lucky Number,Survey Offer,Videowall,Html5 Game,Pay Per View (Website Visit),Watch & Earn (YouTube Watch),Quiz & Earn And Scratch With Source Code And Admin panel, is a great app that people love it.
 
+## :heart: Support My Projects 
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. :coffee: :hamburger: :fries: :apple:
+
+* Starring: You may give a star or share the projects you like.
 
 ### Find this useful? ❤️
+
 Support it by joining stargazers to this. ⭐
 
 Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
+
 
 
